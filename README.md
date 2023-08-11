@@ -1,6 +1,11 @@
 # zpool-scrub
 systemd zpool scrub service and timer
 
+## Fork
+This fork
+  - adds an install script
+  - changes the timer to be ran on the 1th and 15th of each month rather than once a week
+
 ## Installation
 
 ### Arch Linux
